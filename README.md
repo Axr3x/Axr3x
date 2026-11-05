@@ -17,6 +17,3 @@
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axr3x&theme=dark" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/Axr3x/count.svg?" alt="visitors count" />
-
